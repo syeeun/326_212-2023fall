@@ -51,7 +51,7 @@ The course will be graded based on the following components:
 ### Schedule
 
 | Week | Date  | Type    | Topic                                          | Date  | Type    | Topic                            | Assignment (DUE)           |
-|------|-------|---------|------------------------------------------------|-------|---------|----------------------------------|-----------------------|
+|------|-------|-----------|------------------------------------------------|-------|-----------|----------------------------------|----------------------------|
 | 1    | 9/5   | 강의 1  | Introduction                                   | 9/7   | 강의 2  | Data Visualization               |                       |
 | 2    | 9/12  | 실습 1  | Git; Github                                    | 9/14  | 강의 3  | Data Transformation              |                       |
 | 3    | 9/19  | 강의 4  | Data Transformation; EDA                       | 9/21  | 강의 5  | Exploratory Data Analysis        |                       |
@@ -61,7 +61,7 @@ The course will be graded based on the following components:
 | 7    | 10/17 | 실습 3  | Data Visualization                             | 10/19 | 강의 9  | Factors, Date and Times          | Homework 2 (10/20)    |
 | 8    | 10/24 | 강의 10 | Pipes; Functions                               | 10/26 | 강의 11 | Functions                        |                       |
 | 9    | 11/31 | 실습 4  | (Quiz)                                         | 11/2  | 강의 12 | Vectors                          | Homework 3 (11/3)     |
-| 10   | 11/7  | 실습 5  | Data Transformation                            | 11/9  | 강의 13 | Interation                       | Final Project (12/17) |
+| 10   | 11/7  | 실습 5  | Data Transformation                            | 11/9  | 강의 13 | Iteration                       | Final Project (12/17) |
 | 11   | 11/14 | 실습 6  | Exploratory Data Analysis                      | 11/16 | 강의 14 | Model Basics                     |                       |
 | 12   | 11/21 | 실습 7  | Import and Tidy data; Relational Data; Strings | 11/23 | 강의 15 | Model Building                   | Homework 4 (12/4)     |
 | 13   | 11/28 | 실습 8  | (Quiz)                                         | 11/30 | 실습 10 | Factors, Date and Times, Vectors |                       |
